@@ -23,6 +23,7 @@
 /test/ssl/test.log
 /test/ssl/test.pid
 /test/ssl/TestCA[1-9]/
+.vscode/
 
 *.html
 *.xml
